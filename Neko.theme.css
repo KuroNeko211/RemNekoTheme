@@ -1,0 +1,87 @@
+//META{"name":"Neko Theme","description":"Neko theme Made for personal use","author":"Kuro Neko","version":"1.0"}*//{}
+@import url(https://8xs4qxklp8.execute-api.us-east-2.amazonaws.com/release/gorawgit?giturl=/puckzxz/NotAnotherAnimeTheme/master/css/dcsl.css);
+
+
+:root {
+
+    --background-image: url(https://cdn.discordapp.com/attachments/463490940741615616/483035627693277214/npiV6i0.jpg); 
+
+    --friends-icon: url(https://i.pinimg.com/originals/6a/42/ab/6a42ab3b9dbd03f9a55d9bf9481680ef.jpg);
+
+    --friends-icon-position: center center; /* default: center center */
+
+    --friends-icon-zoom: 100%; /* default: 100% */
+
+    --main-color: rgb(67, 181, 129); /* default: rgb(67, 181, 129); */
+
+    --main-transparency: rgba(0, 0, 0, 0.3); /* default: rgba(0, 0, 0, 0.8); */ 
+
+
+    --unread-server-animation: rainbow;
+
+    --hover-list-bg-color: rgba(255,255,255, .15); /* default: rgba(255,255,255, .15) */
+
+    --border-lines-color: hsla(0,0%,100%,.1); /* default: hsla(0,0%,100%,.1);*/
+
+    --scroll-bar-color: rgba(255,255,255, .15); /* default: rgba(255,255,255, .15);*/
+
+ 
+    --font-size: 16px; /* default: 16px */
+ 
+    --selected-text-voice-color: #f6f6f7; /* default: #f6f6f7 */
+
+    --text-hover-color: #b9bbbe; /* default: #b9bbbe */
+
+    --voice-hover-color: #f6f6f7; /* default: #f6f6f7 */
+
+    --unread-text-color: #dcddde; /* default: #dcddde */
+    
+
+    --options-transparency: #2f3136; /* default: #2f3136 */
+}
+.markup-2BOw-j {
+    color:#44ffff ! important;
+}
+.membersGroup-v9BXpm {
+    color:gold ! important;
+}
+.wrapper-KpKNwI {
+    background-color:#0050aa;
+    color:red ! important;
+    border:2px solid Black;
+    border-radius:20px;
+}
+.wrapper-KpKNwI:hover {
+    border:2px solid white;
+}
+.botTagRegular-2HEhHi, .botTag-2WPJ74 {
+    background:cyan;
+    color:green;
+}
+.headerTop-3C2Zn0, .activity-11LB_k, .body-3iLsc4,.footer-1fjuF6{
+    border:2px solid white;
+}
+.avatarStatus-3Ay1VL, .status-oxiHuE {
+    display:none;
+}
+.popout-2fzvxG, .profile-ZOdGIb {
+    width:200px;
+    height:200px;
+}
+.maskProfile-1ObLFT {
+  -webkit-mask: none;
+  mask: none;
+}
+
+.containerCozyBounded-1rKFAn {
+    border-top:2px solid #333333;
+    border-left:2px solid #333333;
+}
+.textArea-2Spzkt {
+    background-image:linear-gradient(to right, gray, black);
+}
+.textArea-2Spzkt {
+    background-image:linear-gradient(to right, cyan, lightblue);
+    color:black ! important;
+    font-size:20px;
+}
